@@ -1,35 +1,10 @@
 # ES6 Basics Project
 
-This project focuses on the basics of ES6 (ECMAScript 2015) and aims to enhance your understanding of new features introduced in ES6. You will be working with JavaScript, specifically ES6, to complete various tasks.
-
-## Project Timeline
-
-- **Start Date:** May 27, 2024, 6:00 AM
-- **End Date:** May 28, 2024, 6:00 AM
-- **Checker Release:** May 27, 2024, 12:00 PM
-- **Auto Review:** Launched at the deadline
-
-## Concepts
-
-You should be familiar with the following concepts for this project:
-
-- JavaScript programming
-- Software Linter
-
-## Resources
-
-To complete this project, refer to the following resources:
-
-- ECMAScript 6 - ECMAScript 2015
-- Statements and declarations
-- Arrow functions
-- Default parameters
-- Rest parameter
-- JavaScript ES6 — Iterables and Iterators
+This project focuses on the basics of ES6 (ECMAScript 2015) and aims to enhance understanding of new features introduced in ES6. You will be working with JavaScript, specifically ES6, to complete various tasks.
 
 ## Learning Objectives
 
-By the end of this project, you should be able to explain:
+By the end of this project, should be able to explain:
 
 - What ES6 is
 - New features introduced in ES6
