@@ -2,7 +2,7 @@ export default function getListStudentsIds(array) {
   if (!(Array.isArray(array))) {
     return [];
   }
-  const indexes = array.map((element, index) => index);
+  const ids = array.map((element) => element.id);
   //   return Object.keys(array);
-  return indexes;
+  return ids;
 }
